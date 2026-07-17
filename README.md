@@ -22,13 +22,6 @@ This project is part of my Full Stack Development learning journey. Rather than 
 * Home
 * About
 * Classes
-* Trainers
-* Membership
-* Schedule
-* Gallery
-* Blog
-* Contact
-* FAQ
 
 > More pages will be added as I continue learning.
 
@@ -55,9 +48,9 @@ This project is part of my Full Stack Development learning journey. Rather than 
 ### ✅ Phase 1 – HTML
 
 * [x] Build the website structure.
-* [ ] Complete all pages.
-* [ ] Improve accessibility.
-* [ ] Add more semantic elements.
+* [x] Complete all pages.
+* [x] Improve accessibility.
+* [x] Add more semantic elements.
 
 ### ⏳ Phase 2 – CSS
 
