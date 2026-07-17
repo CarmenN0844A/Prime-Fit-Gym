@@ -1,4 +1,4 @@
-# 🏋️ PrimeFit Gym Website (HTML Only)
+# 🏋️ PrimeFit Gym Website
 
 A multi-page gym website built using **only HTML5** to practice and strengthen my understanding of semantic HTML, accessibility, forms, tables, and other core HTML concepts.
 
